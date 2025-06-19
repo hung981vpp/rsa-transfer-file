@@ -65,3 +65,13 @@ Truy cập [http://localhost:8002](http://localhost:8002)
 ## Credit
 - Sử dụng Flask, cryptography, Bootstrap.
 - Tác giả: #Hwungg🥀
+
+## Một số hình ảnh giao diện
+
+# Upload & ký số
+![image](https://github.com/user-attachments/assets/6d4b96d2-6b50-4515-a6ed-954014175cc4)
+
+# Xác minh chữ ký
+![image](https://github.com/user-attachments/assets/ff8dab9d-958f-492a-a7c9-8d834a64452b)
+
+
